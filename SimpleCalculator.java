@@ -31,8 +31,8 @@ public class SimpleCalculator {
                 return(firstNumber - secondNumber);
                 break;
             case "*":
+                return(firstNumber*secondNumber);
                 //implement multiplication
-                break;
             case "/":
                 //implement division
                 return (firstNumber / secondNumber);
