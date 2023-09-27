@@ -34,7 +34,7 @@ public class SimpleCalculator {
                 break;
             case "/":
                 //implement division
-                break;
+                return (firstNumber / secondNumber);
             default:
                 System.out.println("Invalid operation");
                 break;
