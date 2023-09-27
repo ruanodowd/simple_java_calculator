@@ -28,6 +28,7 @@ public class SimpleCalculator {
                 return(firstNumber + secondNumber);
             case "-":
                 //implement subtraction
+                return(firstNumber - secondNumber);
                 break;
             case "*":
                 //implement multiplication
