@@ -30,8 +30,8 @@ public class SimpleCalculator {
                 //implement subtraction
                 break;
             case "*":
+                return(firstNumber*secondNumber);
                 //implement multiplication
-                break;
             case "/":
                 //implement division
                 break;
